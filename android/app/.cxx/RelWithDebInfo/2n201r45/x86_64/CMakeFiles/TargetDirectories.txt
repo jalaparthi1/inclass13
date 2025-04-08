@@ -1,0 +1,2 @@
+/Users/joshikaalaparthi/Downloads/inclass13_Firebase-main/android/app/.cxx/RelWithDebInfo/2n201r45/x86_64/CMakeFiles/edit_cache.dir
+/Users/joshikaalaparthi/Downloads/inclass13_Firebase-main/android/app/.cxx/RelWithDebInfo/2n201r45/x86_64/CMakeFiles/rebuild_cache.dir
