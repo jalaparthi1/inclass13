@@ -151,7 +151,10 @@ class _RegisterEmailSectionState extends State<RegisterEmailSection> {
                   : _success
                       ? 'Successfully registered $_userEmail'
                       : 'Registration failed',
-              style: TextStyle(color: _success ? Colors.green : Colors.red),
+              style: TextStyle(
+                  color: _success
+                      ? Colors.green
+                      : const Color.fromARGB(255, 133, 32, 24)),
             ),
           ),
         ],
